@@ -28,4 +28,5 @@ Now you can use `ebpf_objdump`.
 
 ## License
 SPDX-License-Identifier: MIT
+
 See [LICENSE](LICENSE).
