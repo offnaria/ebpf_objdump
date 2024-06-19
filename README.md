@@ -6,6 +6,7 @@ The implementation is based on the [Linux kernel v6.9 document](https://www.kern
 
 Build libbpf at first.
 ```
+git submodule update --init --recursive
 cd submodule/libbpf/src
 make
 ```
